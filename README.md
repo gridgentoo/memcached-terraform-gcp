@@ -1,6 +1,9 @@
 # terraform-google-memcached
 
-This is a module to bring up a memcached .
+This is a module to bring up a memcached.  
+
+memcached-terraform-gcp  
+https://docs.google.com/spreadsheets/d/1F5fqGbsQDrQjZVB2E1dk-zr5OUj-Mb6P55F_kL02pZE/edit?folder=0AGzfMaGH7wbJUk9PVA#gid=0
 
 ## Inputs
 
