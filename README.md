@@ -3,7 +3,13 @@
 This is a module to bring up a memcached.  
 
 memcached-terraform-gcp  
-https://docs.google.com/spreadsheets/d/1F5fqGbsQDrQjZVB2E1dk-zr5OUj-Mb6P55F_kL02pZE/edit?folder=0AGzfMaGH7wbJUk9PVA#gid=0
+https://docs.google.com/spreadsheets/d/1F5fqGbsQDrQjZVB2E1dk-zr5OUj-Mb6P55F_kL02pZE/edit?folder=0AGzfMaGH7wbJUk9PVA#gid=0  
+
+Deployment of a Highly Available Memcached Cluster on Oracle Cloud Infrastructure using Terraform  
+https://blogs.oracle.com/cloud-infrastructure/deploying-a-highly-available-memcached-cluster-on-oracle-cloud-infrastructure  
+
+Memcached Infrastructure  
+https://github.com/abannang/OCI/tree/master/memcached-OCI  
 
 ## Inputs
 
